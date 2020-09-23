@@ -1,0 +1,10 @@
+{
+  "TOPOLOGY_NAME" : "topology20_3.txt",
+  "NETWORK_SIZE" : "20",
+  "GAMMA" : "0.9",
+  "MAX_EPISODES" : "200001",
+  "MAX_REPLAY_BUFFER" : "10000",
+  "TRAIN_FREQUENCY" : "10",
+  "MINI_BATCH_SIZE" : "20",
+  "MODEL_SAVE_FREQUENCY": "1000"
+}
